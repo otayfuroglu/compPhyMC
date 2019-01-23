@@ -8,9 +8,9 @@ energy and heat capacity measurements were performed.
 In order to run this code written in the Python computer language, 
 the following programming language and external libraries must be preinstalled on the computer;
 
-Python 2.7
-Numpy 1.14
-Matplotlib 2.2
+Python 2.7,
+Numpy 1.14,
+Matplotlib 2.2,
 Pandas 0.23
 
 This code has been tested on the Ubuntu 16.04 LTS, 64 bit operating system. 
